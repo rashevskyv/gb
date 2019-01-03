@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html, body {
+    height: 100%;
+}
+
+div.container {
+    width: 80%;
+    height: 100%;
+    background-color: coral;
+    margin: 0 auto;
+}
